@@ -1,0 +1,18 @@
+1. collect requirement (apakah sama seperti cicurug? atau baru?)
+    - tag
+    - diagram process
+    - user access (siapa saja)
+    - jenis mesin/plc untuk dicocokkan dg opc kepware
+    - asumsi semua instrument tambahan konek lewat mesin yg sama, maka tidak perlu dicek kesesuaian dg opc
+2. development
+    - penyesuaian vocip untuk indolakto jakarta (tag, ip, mesin, diagram) jika ada
+    - dev report to excel
+    - termin 30%, dibuktikan dg demo/present vocip full fitur with dummy data
+3. deploy & test
+    - pasang kepware, cek setiap koneksi mesin terbaca di kepware
+    - pasang vocip, seperti urutan deploy yg dilakukan bene di pc/server site
+    - license kepware activate
+    - termin 30%, dibuktikan dg aplikasi terpasang dan running on site
+4. comm & bast
+    - meeting BAST sekaligus ngasi training ke champion CIP mereka
+    - klaim last termin
